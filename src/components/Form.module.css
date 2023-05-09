@@ -1,0 +1,26 @@
+.formContent {
+	display: flex;
+	background-color: #431ccf23;
+	justify-content: center;
+	align-items: center;
+	padding: 30px;
+}
+.item {
+	display: block;
+	padding-bottom: 20px;
+}
+.formContent button{
+	padding: 5px;
+}
+.formContent button {
+	margin-right: 10px;
+}
+.butRes {
+	padding: 5px;
+}
+.calendar {
+	margin-bottom: 10px;
+}
+.formContent select {
+	margin-left: 10px;
+}
